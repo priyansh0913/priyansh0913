@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Priyansh Mawal</h1>
-<h3 align="center">Sophomore @Indian Institute of Technology Roorkee</h3>
+<h3 align="center">Graduated from @Indian Institute of Technology Roorkee</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh0913&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh0913" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansh0913" alt="priyansh0913" /></a> </p>
 
-- 🔭 I’m currently working on **Game-On!**
+- 🔭 I’m currently working at **Morabu Hanshin**
 
-- 🌱 I’m currently learning **new data-structures & Data analytics**
+- 🌱 I’m currently learning **New data-structures & Data analytics**
 
 - 💬 Ask me about **Probability & Statistics**
 
